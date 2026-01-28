@@ -11,7 +11,7 @@ Designed to work with Shared Drives using the Google Drive Advanced API.
 This script helps automate invoice file management by:
 
 - Matching invoice numbers with PDF files in a temporary folder
-- Moving files to their corresponding destination folders
+- Moving files to their corresponding destination folders 
 - Writing the Google Drive file link back to the spreadsheet
 - Skipping already processed rows safely
 
