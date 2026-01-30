@@ -2,7 +2,7 @@
 
 A Google Apps Script that automatically moves invoice PDF files from a temporary Google Drive folder to destination folders defined in a Google Sheet, and writes the file link back to the sheet.
 
-Designed to work with Shared Drives using the Google Drive Advanced API.
+Designed to work with Shared Drives using the Google Drive Advanced API. 
 
 ---
 
